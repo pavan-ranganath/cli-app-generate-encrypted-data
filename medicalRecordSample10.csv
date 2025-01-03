@@ -1,0 +1,11 @@
+PatientID,name,gender,dob,customData,test-result-1,test-result-2,medication-1,medication-2,diagnostics
+P001,John Doe,M,1990-05-14,None,5.6,23.4,Metformin-500mg-1-1-1,Aspirin-75mg-0-1-0,Type 2 Diabetes
+P002,Jane Smith,F,1987-11-20,peanut allergies,6.8,28.1,Metformin-500mg-1-0-1,Lisinopril-10mg-1-0-0,Hypertension
+P003,Michael Brown,M,1975-03-10,smoker,7.1,31.2,Glimepiride-2mg-1-0-0,Amlodipine-5mg-0-1-1,Type 2 Diabetes
+P004,Sarah Johnson,F,1995-06-25,vegetarian,5.3,20.5,Vitamin D-1000IU-1-0-0,Calcium-500mg-1-0-1,Nutritional Deficiency
+P005,David Wilson,M,1968-12-01,None,6.2,25.9,Insulin-10IU-1-0-1,Metoprolol-50mg-0-0-1,Type 2 Diabetes
+P006,Emily Davis,F,1992-08-15,Heart Disease,5.9,22.7,Atorvastatin-20mg-1-0-0,Omega-3-1000mg-1-0-0,Hyperlipidemia
+P007,Chris Miller,M,1980-01-30,None,7.5,29.5,Empagliflozin-10mg-1-0-1,Aspirin-75mg-0-0-1,Type 2 Diabetes
+P008,Amy Wilson,F,2000-09-18,None,5.1,19.8,Vitamin B12-1000mcg-1-0-0,Iron-65mg-1-1-0,Nutritional Deficiency
+P009,Robert White,M,1985-04-07,None,6.5,27.3,Canagliflozin-300mg-1-0-0,Atorvastatin-10mg-0-1-0,Type 2 Diabetes
+P010,Laura Martin,F,1978-02-14,None,7.3,33.0,Insulin-15IU-1-1-1,Losartan-50mg-0-0-1,Type 2 Diabetes
